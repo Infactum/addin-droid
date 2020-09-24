@@ -1,8 +1,8 @@
 # addin-droid
 
-Sample 1C:Enteprise AddIn with Java interop on Android.
-AddIn itself implements simple universal broadcast receiver.
-Made with modern template.
+Sample 1C:Enteprise AddIn with Java interop on Android.  
+AddIn itself implements simple universal broadcast receiver.  
+Made with [modern template](https://github.com/Infactum/addin-template).
 
 ## Development tips
 
