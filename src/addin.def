@@ -1,0 +1,7 @@
+LIBRARY "DroidAddIn"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
